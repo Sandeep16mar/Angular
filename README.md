@@ -1,11 +1,3 @@
-# Angular
-To convert the detailed content into a PDF, follow these steps:
-
-### Step 1: Format Content in Markdown
-
-Here's how the content would look in Markdown format:
-
----
 
 # Angular Concepts eBook
 
@@ -750,31 +742,6 @@ Angular Elements allows you to package Angular components as custom elements (we
 1. **GitHub Repository**: [github.com/angular/angular](https://github.com/angular/angular)
 2. **Twitter**: Follow Angular's official Twitter account for updates.
 
----
 
-### Generating the PDF
 
-1. **Format Content**: Convert the above content into Markdown format.
-2. **Convert to PDF**:
-   - Use tools like Pandoc to convert the Markdown file to PDF.
-   - Alternatively, use a Markdown editor with built-in PDF export functionality.
 
-If you need assistance with the Markdown-to-PDF conversion, please let me know!
-
----
-
-### Converting Markdown to PDF
-
-To convert the Markdown file to PDF, you can use tools like:
-
-- **Pandoc**:
-  1. Save the above content as `angular-concepts.md`.
-  2. Run the following command:
-     ```bash
-     pandoc angular-concepts.md -o angular-concepts.pdf
-     ```
-
-- **Markdown Editors**:
-  - Editors like Typora, Mark Text, or Visual Studio Code with Markdown plugins offer built-in PDF export options.
-
-If you need further help with the process, feel free to ask!
